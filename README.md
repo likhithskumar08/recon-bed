@@ -19,8 +19,8 @@ Now, activate the virtual environment with the following command:<br />`$ . env/
 
 ------------
 ### 2. Clone project to the local machine
-In the terminal, navigate to the location where the project folder has to be created. Then enter the git command to clone the project:<br />`$ https://github.com/appinessgit/get-set-go-bed.git` <br />
-Once cloned, change the directory to **getsetgo**<br /> `$ cd getsetgo`
+In the terminal, navigate to the location where the project folder has to be created. Then enter the git command to clone the project:<br />`$ https://github.com/appinessgit/recon-bed.git` <br />
+Once cloned, change the directory to **recon**<br /> `$ cd recon`
 
 ------------
 
